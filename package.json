@@ -1,0 +1,13 @@
+{
+  "name": "auspayplus-home-test",
+  "version": "1.0.0",
+  "description": "A project to automate tests for auspayplus home test",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:headless": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^10.9.0",
+    "typescript": "^4.8.4"
+  }
+}
